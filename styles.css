@@ -36,7 +36,7 @@ a:hover{
 #header a{
   color:white;
   text-decoration: none;
-
+margin-top:32px;
   letter-spacing: 0.1em;
 }
 #header a:hover{
@@ -46,7 +46,7 @@ a:hover{
 #header-nav{
   display :block;
   float: right;
-  margin-top:0px;
+  margin-top:10px;
 }
 #header-nav li{
   display:inline;
